@@ -148,9 +148,9 @@ Mi objetivo profesional es simple:
 Si algún día ves un commit mío que dice:
 
 ```bash
-fix: ajuste menor
+ajustes varios
 ```
 
 No preguntes.
 
-Solo acepta que hubo una batalla.
+Solo habla a la policia por que suplantaron mi identidad.
