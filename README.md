@@ -1,5 +1,3 @@
-# README.md — Adrián en Ditra
-
 Hola, soy Adrián.
 
 Si estás leyendo esto, probablemente eres parte del equipo de devs, estás stalkeando mi GitHub, o te mandaron este perfil como evidencia en algún incidente.
